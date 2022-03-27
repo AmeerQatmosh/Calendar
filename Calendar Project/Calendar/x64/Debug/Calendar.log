@@ -1,0 +1,3 @@
+﻿  Calendar.cpp
+C:\Users\ameer\source\repos\Calendar\Calendar\Calendar.cpp(130,6): warning C4101: 'days': unreferenced local variable
+  Calendar.vcxproj -> C:\Users\ameer\source\repos\Calendar\x64\Debug\Calendar.exe
